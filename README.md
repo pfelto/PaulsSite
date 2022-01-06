@@ -1,4 +1,11 @@
+# Paul's super cool portfolio site
+
+Going to put more stuff here when I feel like it.
+
 # Getting Started with Create React App
+
+<details>
+    <summary>Click to see all the readme notes for Create React App</summary>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
